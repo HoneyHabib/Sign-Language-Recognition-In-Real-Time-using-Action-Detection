@@ -1,5 +1,4 @@
-# Sign-Language-recognition-in-Real-Time-using-action-detection
-# Sign Language Recognition Using Action Detection with LSTM
+# SignLanguage Recognition In Real Time-Using Action Detection with LSTM
 
 Welcome to the **Sign Language Recognition Using Action Detection** repository! This project utilizes Long Short-Term Memory (LSTM) neural networks built with TensorFlow/Keras to recognize sign language gestures through action detection.
 
